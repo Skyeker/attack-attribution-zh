@@ -15,26 +15,24 @@
 
 **Claude Code / Claude Desktop:**
 ```bash
-/learn @wangchenyang/attack-attribution-zh
+/learn @<your-github-username>/attack-attribution-zh
 ```
 
 **skills.sh (Vercel):**
 ```bash
-npx skills add wangchenyang/attack-attribution-zh
+npx skills add <your-github-username>/attack-attribution-zh
 ```
 
 **agentskill.sh:**
 ```bash
-npx @agentskill.sh/cli@latest install @wangchenyang/attack-attribution-zh
+npx @agentskill.sh/cli@latest install @<your-github-username>/attack-attribution-zh
 ```
 
 **手动安装:**
 ```bash
-git clone https://github.com/wangchenyang/attack-attribution-zh.git
+git clone https://github.com/<your-github-username>/attack-attribution-zh.git
 # 将 SKILL.md 和 references/ 目录复制到你的 agent skills 目录
 ```
-
-> 注意：请将上面的 `wangchenyang` 替换为你实际的 GitHub 用户名。
 
 ## 目录结构
 
