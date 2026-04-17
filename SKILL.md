@@ -10,6 +10,13 @@ description: >
   "追溯这次入侵"或"给这个威胁者做画像"，也应立即启用此 skill。本 skill 包含四大核心
   能力：(1) 基于钻石模型与结构化分析技术的归因分析，(2) 威胁者画像与档案生成，
   (3) 战役关联与入侵集群聚类，(4) 基础设施枢轴分析与 C2 追踪方法论。
+domain: cybersecurity
+subdomain: threat-intelligence
+tags: ["MITRE-ATT&CK", "Diamond-Model", "APT", "IOC", "attribution", "threat-actor-profiling", "campaign-correlation", "C2-tracking", "passive-DNS", "CTI"]
+version: 1.0.0
+author: Skyeker
+license: MIT
+compatibility: Claude Code, Claude Desktop, Cursor, Windsurf
 ---
 
 # 攻击溯源与攻击者画像 Skill
